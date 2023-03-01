@@ -1,0 +1,6 @@
+/.pytest_cache
+/.venv
+/.vscode
+/output
+*__pycache__
+scrapy.code-workspace
